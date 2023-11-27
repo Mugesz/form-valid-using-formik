@@ -1,20 +1,4 @@
-input[type="text"] {
-  width: 100%;
-  background-color: transparent;
-  border: none;
-  border-bottom: 1px solid black;
-}
 
-input[type="date"] {
-  border: none;
-  background-color: transparent;
-  border-bottom: 1px solid black;
-}
-
-area {
-  background-color: transparent;
-  border-bottom: 1px solid black;
-}
 
 input[type="checkbox"] {
   cursor: pointer;
