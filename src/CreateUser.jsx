@@ -7,7 +7,7 @@ const VeiwUser = () => {
 
   return (
     <div className="container">
-      <h3 className="text-center">Form validation</h3>
+      <h3 className="text-center"> Use Formik Form validation</h3>
       <div className="form-control">
         <form onSubmit={formik.handleSubmit}>
           <label>Title</label>
