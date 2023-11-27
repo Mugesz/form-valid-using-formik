@@ -14,11 +14,7 @@ export const UserProiveder = ({ children }) => {
       Dob: "",
     },
 
-    validate: (values) => {
-      let errors = {};
-   
-      return errors;
-    },
+    validate: {},
 
     onSubmit: (values, formikbag) => {
       console.log(values);

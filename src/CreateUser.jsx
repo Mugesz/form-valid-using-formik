@@ -30,7 +30,7 @@ const VeiwUser = () => {
           <span style={{ color: "red" }}>{formik.errors.email}</span>
           <br />
           <br />
-          <div className="col-75">
+          <div>
             <label>ISBN number</label>
             <input
               type="number"
